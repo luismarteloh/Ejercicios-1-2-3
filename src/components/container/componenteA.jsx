@@ -6,7 +6,7 @@ import { Contacto } from '../../models/contact.class'
 
 const ComponenteA = () => {
 
-  const primerContacto = new Contacto('Perdo', 'Perez', 'pedroperez@algo.com', true)
+  const primerContacto = new Contacto('Pedro', 'Perez', 'pedroperez@algo.com', true)
   
   return (
     <div>
